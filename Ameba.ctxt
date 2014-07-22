@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ameba()
+comment1.params=
+comment1.target=void\ kill()
+comment2.params=
+comment2.target=int\ step()
+comment3.params=
+comment3.target=boolean\ getState()
+numComments=4
