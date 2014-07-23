@@ -1,12 +1,8 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Ameba
+PURPOSE OF PROJECT: To run through large numbers of cultures to determine how often a culture survives
+HOW TO START THIS PROJECT: Run the Main Function
+AUTHORS: Ian Moreno
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+
+The Amoeba have 4 options, do nothing, die, divide, and divide twice. Each culture starts with one amoeba. 
+Its a statistics problem.
