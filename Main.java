@@ -2,11 +2,11 @@ import java.util.*;
 public class Main
 {
     public static void main ( String[] args ){
-        double[] trial = new double[1000000];
+        double[] trial = new double[1000];
         for(int i = 0; i < trial.length; i++){
             trial[i] = Step.step();
             System.out.printf(" %-1d: %-10d",i+1,(int)trial[i]);
-            if(i%4 == 0 && i != 0) System.out.println();
+            if(i%5 == 0) System.out.println();
         }
         double avg = 0;
         for(int i = 0; i < trial.length; i++){

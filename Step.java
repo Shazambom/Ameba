@@ -22,9 +22,11 @@ public class Step
                         case 2: array.add(new Ameba()); array.add(new Ameba()); break;
                         default: break;
                     }
-                    if(array.get(i).getState()) count++;
                 }
             }
+        }
+        for(int i = 0; i < array.size(); i++){
+            if(array.get(i).getState()) count++;
         }
         return count;
     }
